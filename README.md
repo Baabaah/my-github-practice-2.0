@@ -3,4 +3,4 @@ Practicing for my github assignment
 ## Contributors
 - [Abdulazeez](mailto:delazeez221@gmail.com)
 - [Instructor: Mubaraq](https://github.com/mubarraqqq)
-- Add Contributors section to README
+ Add Contributors section to README
